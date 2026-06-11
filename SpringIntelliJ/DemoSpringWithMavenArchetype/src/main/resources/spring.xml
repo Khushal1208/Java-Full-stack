@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+
+
+<!--    <bean id = "dev" class="com.khushal.Dev">-->
+<!--      <property name="age" value="12"/>-->
+<!--        It is Called Setter Injection-->
+<!--       <constructor-arg value = "14" />-->
+<!--        It is Called Constructor Injection-->
+
+<!--       <property name="laptop" ref = "lap1" />-->
+<!--  Way 1 to wire :      I have wired lap1 with dev-->
+<!--        <constructor-arg ref="lap1"/>-->
+<!--         Way 2 to wire :      I have wired lap1 with dev-->
+
+<!--    </bean>-->
+
+<!--    <bean id = "dev1" class="com.khushal.Dev"></bean>-->
+<!--    I have created two objects of dev class-->
+
+
+    <bean id = "dev" class="com.khushal.Dev" autowire="byType">
+<!--        <property name="com" ref="desk1" />-->
+<!--        Dev is Linked with Laptop as Computer-->
+<!--        I dont want to write property by Myself then use autowire="byName"  (Default Constructor Must be Present int the Class)-->
+<!--        Works only when name and ref are same-->
+<!--        so it can create so use autowire="byType" not "byName"-->
+<!--        In case of more than 1 same Type bean Present mention Primary bean-->
+    </bean>
+
+
+<!--    <bean id = "com" class = "com.khushal.Laptop"></bean>-->
+    <bean id = "lap1" class = "com.khushal.Laptop" primary="true"></bean>
+    <bean id = "desk1" class = "com.khushal.Desktop"></bean>
+
+</beans>
