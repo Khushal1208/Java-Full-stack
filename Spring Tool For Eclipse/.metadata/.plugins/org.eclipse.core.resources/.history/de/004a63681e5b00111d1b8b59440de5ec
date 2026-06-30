@@ -1,0 +1,13 @@
+package com.khushal;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class AlienResource {
+	public List<Alien> getAliens(){
+		List<Alien> aliens = new ArrayList<>();
+	}
+}

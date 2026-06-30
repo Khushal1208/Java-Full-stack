@@ -1,0 +1,550 @@
+2026-05-23 10:42:42,036 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-05-23 10:45:01,063 [Worker-27: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 10:45:08,684 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 10:45:08,704 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 10:50:12,743 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-05-23 10:50:37,859 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 10:50:37,859 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 10:50:46,817 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 10:53:23,846 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 10:53:24,953 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 10:53:29,109 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 10:53:29,125 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 10:53:29,129 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 10:53:29,135 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 10:53:33,134 [Worker-0: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 10:53:33,216 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 3.00 sec 
+2026-05-23 10:53:33,838 [Worker-22: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 10:53:33,854 [Worker-22: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 10:53:33,857 [Worker-22: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 10:53:33,867 [Worker-22: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 10:54:17,193 [Worker-2: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 10:54:17,203 [Worker-2: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 10:54:28,803 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 10:54:29,517 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 10:54:31,908 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 10:54:31,911 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 10:54:31,912 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 10:54:31,915 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 10:54:32,889 [Worker-12: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 10:54:32,943 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2026-05-23 10:54:33,521 [Worker-12: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 10:54:33,532 [Worker-12: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 10:54:33,533 [Worker-12: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 10:54:33,534 [Worker-12: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 10:55:09,496 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 10:55:09,503 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 10:55:18,563 [Worker-14: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 10:55:18,570 [Worker-14: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:01:07,990 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:01:13,072 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:01:13,102 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:01:13,103 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:01:13,104 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:01:15,153 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/4.0.5/jaxb-runtime-4.0.5-sources.jar
+2026-05-23 11:01:15,386 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/4.0.5/jaxb-runtime-4.0.5-sources.jar
+2026-05-23 11:01:15,415 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:4.0.5
+2026-05-23 11:01:15,557 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/4.0.5/jaxb-core-4.0.5-sources.jar
+2026-05-23 11:01:15,668 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-core/4.0.5/jaxb-core-4.0.5-sources.jar
+2026-05-23 11:01:15,702 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-core:4.0.5
+2026-05-23 11:01:15,874 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2-sources.jar
+2026-05-23 11:01:15,912 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-activation/2.0.2/angus-activation-2.0.2-sources.jar
+2026-05-23 11:01:15,935 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.angus:angus-activation:2.0.2
+2026-05-23 11:01:16,095 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/4.0.5/txw2-4.0.5-sources.jar
+2026-05-23 11:01:16,163 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/4.0.5/txw2-4.0.5-sources.jar
+2026-05-23 11:01:16,191 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:4.0.5
+2026-05-23 11:01:16,332 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2-sources.jar
+2026-05-23 11:01:16,370 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2-sources.jar
+2026-05-23 11:01:16,392 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:4.1.2
+2026-05-23 11:05:41,955 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:05:42,678 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/3.1.5/jersey-media-jaxb-3.1.5.pom
+2026-05-23 11:05:42,712 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/3.1.5/jersey-media-jaxb-3.1.5.pom
+2026-05-23 11:05:42,786 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/3.1.5/project-3.1.5.pom
+2026-05-23 11:05:42,810 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/3.1.5/project-3.1.5.pom
+2026-05-23 11:05:43,049 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/3.1.5/jersey-media-jaxb-3.1.5.jar
+2026-05-23 11:05:43,136 [Worker-30: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/3.1.5/jersey-media-jaxb-3.1.5.jar
+2026-05-23 11:05:45,867 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:05:45,876 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:05:45,877 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:05:45,877 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:05:46,760 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/3.1.5/jersey-media-jaxb-3.1.5-sources.jar
+2026-05-23 11:05:46,801 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/3.1.5/jersey-media-jaxb-3.1.5-sources.jar
+2026-05-23 11:05:46,822 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.media:jersey-media-jaxb:3.1.5
+2026-05-23 11:06:53,422 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:06:56,161 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:06:56,170 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:06:56,171 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:06:56,171 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:07:22,298 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 11:07:22,713 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:07:24,766 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 11:07:24,767 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 11:07:24,768 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 11:07:24,770 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 11:07:25,823 [Worker-30: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 11:07:25,892 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2026-05-23 11:07:26,131 [Worker-28: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:07:26,166 [Worker-28: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:07:26,167 [Worker-28: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:07:26,167 [Worker-28: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:08:41,083 [Worker-31: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:08:41,089 [Worker-31: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:13:52,854 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:13:56,082 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:13:56,088 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:13:56,089 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:13:56,089 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:13:56,374 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 11:13:56,945 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:13:59,993 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 11:13:59,995 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 11:13:59,996 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 11:13:59,998 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 11:14:02,014 [Worker-34: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 11:14:02,060 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 2.00 sec 
+2026-05-23 11:14:02,292 [Worker-35: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:14:02,303 [Worker-35: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:14:02,304 [Worker-35: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:14:02,305 [Worker-35: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:15:54,432 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:15:54,436 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:16:09,547 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 11:16:09,928 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:16:11,784 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 11:16:11,786 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 11:16:11,787 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 11:16:11,788 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 11:16:12,516 [Worker-27: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 11:16:12,559 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2026-05-23 11:16:12,927 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:16:12,940 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:16:12,941 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:16:12,941 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:16:20,878 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 11:16:21,279 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:16:22,644 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 11:16:22,645 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 11:16:22,646 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 11:16:22,647 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 11:16:22,912 [Worker-37: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 11:16:22,936 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2026-05-23 11:16:23,189 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:16:23,198 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:16:23,199 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:16:23,199 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:16:57,043 [Worker-35: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 11:16:57,333 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:16:57,337 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:16:57,338 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:16:57,338 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:17:22,403 [Worker-35: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:17:22,408 [Worker-35: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:18:16,110 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:18:17,986 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:18:17,991 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:18:17,992 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:18:17,992 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:18:18,154 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 11:18:18,636 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:18:20,192 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 11:18:20,193 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 11:18:20,193 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 11:18:20,194 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 11:18:20,569 [Worker-36: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 11:18:20,614 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2026-05-23 11:18:20,899 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:18:20,905 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:18:20,906 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:18:20,906 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:18:24,582 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 11:18:24,833 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:18:26,248 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 11:18:26,250 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 11:18:26,251 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 11:18:26,253 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 11:18:26,620 [Worker-35: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 11:18:26,657 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2026-05-23 11:18:26,928 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:18:26,936 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:18:26,937 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:18:26,937 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:18:44,072 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:18:45,738 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:18:45,745 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:18:45,746 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:18:45,746 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:18:45,902 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 11:18:46,302 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:18:48,020 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 11:18:48,022 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 11:18:48,022 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 11:18:48,024 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 11:18:48,539 [Worker-37: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 11:18:48,575 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2026-05-23 11:18:48,695 [Worker-36: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:18:48,700 [Worker-36: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:18:48,701 [Worker-36: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:18:48,701 [Worker-36: Building Project demoWebApp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:18:56,966 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:18:56,970 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:19:08,679 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-23 11:19:08,955 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-23 11:19:10,739 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/main/java
+2026-05-23 11:19:10,740 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/main/resources
+2026-05-23 11:19:10,741 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demoWebApp/src/test/java
+2026-05-23 11:19:10,743 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demoWebApp/src/test/resources
+2026-05-23 11:19:11,292 [Worker-28: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demoWebApp
+2026-05-23 11:19:11,321 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2026-05-23 11:19:11,651 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:19:11,659 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:19:11,660 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-23 11:19:11,660 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-23 11:19:25,229 [Worker-34: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:19:25,233 [Worker-34: Building Project demoWebApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:19:59,559 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:19:59,565 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:20:15,650 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:20:15,656 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-23 11:23:47,812 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-23 11:23:47,820 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:14:55,596 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-05-25 10:25:58,833 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:25:58,925 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:26:18,027 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 21.0.10+8-LTS-217
+2026-05-25 10:26:18,540 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@6f6e830c{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@131ade8e{STARTED}}
+2026-05-25 10:26:18,542 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2026-05-25 10:26:18,785 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2d08bf0c{HTTP/1.1, (http/1.1)}{127.0.0.1:49371}
+2026-05-25 10:26:18,969 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@4d375919{STARTING}[12.0.9,sto=0] @803635ms
+2026-05-25 10:27:14,360 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:27:14,371 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:30:13,133 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:30:13,145 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:30:45,920 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:30:45,925 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:31:48,389 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:31:48,398 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:32:22,031 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:32:22,039 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:37:43,026 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:37:43,034 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:38:28,537 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:38:28,546 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:39:07,053 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:39:07,057 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:42:06,574 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:42:06,581 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:42:20,626 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:42:20,633 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:45:54,925 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:45:54,928 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:46:14,981 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:46:14,987 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:46:58,840 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:46:58,851 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:48:30,004 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:48:30,014 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:51:13,749 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:51:13,763 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:52:46,453 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:52:46,465 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 10:54:12,422 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 10:54:12,427 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 11:02:54,982 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 11:02:54,992 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 11:03:00,990 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 11:03:01,005 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 11:03:37,806 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-25 11:03:37,811 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-25 21:30:08,698 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@4d375919{STOPPING}[12.0.9,sto=0]
+2026-05-25 21:30:08,796 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2d08bf0c{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2026-05-26 09:07:07,442 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-05-26 09:26:56,697 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 09:26:56,920 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 09:47:54,005 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 09:47:54,065 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 09:48:51,459 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 09:48:51,472 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 09:50:42,831 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 09:50:42,880 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 09:51:42,879 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 09:51:42,888 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 09:59:53,263 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 09:59:53,322 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 10:05:02,035 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 10:05:02,048 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 10:06:07,243 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 10:06:07,258 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 10:10:29,393 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-26 10:10:32,241 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/3.1.5/jersey-media-moxy-3.1.5.pom
+2026-05-26 10:10:32,330 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/3.1.5/jersey-media-moxy-3.1.5.pom
+2026-05-26 10:10:32,457 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/3.1.5/jersey-entity-filtering-3.1.5.pom
+2026-05-26 10:10:32,487 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/3.1.5/jersey-entity-filtering-3.1.5.pom
+2026-05-26 10:10:32,601 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/3.1.5/project-3.1.5.pom
+2026-05-26 10:10:32,641 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/3.1.5/project-3.1.5.pom
+2026-05-26 10:10:32,785 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.1.2/jakarta.json-api-2.1.2.pom
+2026-05-26 10:10:32,832 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.1.2/jakarta.json-api-2.1.2.pom
+2026-05-26 10:10:32,922 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.pom
+2026-05-26 10:10:32,960 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.pom
+2026-05-26 10:10:33,067 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/parsson/parsson/1.1.1/parsson-1.1.1.pom
+2026-05-26 10:10:33,095 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/parsson/parsson/1.1.1/parsson-1.1.1.pom
+2026-05-26 10:10:33,189 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/parsson/project/1.1.1/project-1.1.1.pom
+2026-05-26 10:10:33,219 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/parsson/project/1.1.1/project-1.1.1.pom
+2026-05-26 10:10:33,313 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.1.1/jakarta.json-api-2.1.1.pom
+2026-05-26 10:10:33,340 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.1.1/jakarta.json-api-2.1.1.pom
+2026-05-26 10:10:33,446 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/4.0.2/org.eclipse.persistence.moxy-4.0.2.pom
+2026-05-26 10:10:33,475 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/4.0.2/org.eclipse.persistence.moxy-4.0.2.pom
+2026-05-26 10:10:33,571 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.parent/4.0.2/org.eclipse.persistence.parent-4.0.2.pom
+2026-05-26 10:10:33,615 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.parent/4.0.2/org.eclipse.persistence.parent-4.0.2.pom
+2026-05-26 10:10:33,711 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/23.2.0.0/ojdbc-bom-23.2.0.0.pom
+2026-05-26 10:10:33,732 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/23.2.0.0/ojdbc-bom-23.2.0.0.pom
+2026-05-26 10:10:33,862 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/4.0.2/org.eclipse.persistence.core-4.0.2.pom
+2026-05-26 10:10:33,890 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/4.0.2/org.eclipse.persistence.core-4.0.2.pom
+2026-05-26 10:10:33,985 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/9.5.0/org.eclipse.persistence.asm-9.5.0.pom
+2026-05-26 10:10:34,010 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/9.5.0/org.eclipse.persistence.asm-9.5.0.pom
+2026-05-26 10:10:34,093 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-mail/2.0.2/angus-mail-2.0.2.pom
+2026-05-26 10:10:34,113 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-mail/2.0.2/angus-mail-2.0.2.pom
+2026-05-26 10:10:34,197 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/all/2.0.2/all-2.0.2.pom
+2026-05-26 10:10:34,225 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/all/2.0.2/all-2.0.2.pom
+2026-05-26 10:10:34,318 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/2.1.2/jakarta.activation-api-2.1.2.pom
+2026-05-26 10:10:34,346 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/2.1.2/jakarta.activation-api-2.1.2.pom
+2026-05-26 10:10:34,434 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/mail/jakarta.mail-api/2.1.2/jakarta.mail-api-2.1.2.pom
+2026-05-26 10:10:34,460 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/mail/jakarta.mail-api/2.1.2/jakarta.mail-api-2.1.2.pom
+2026-05-26 10:10:35,018 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/3.1.5/jersey-media-moxy-3.1.5.jar
+2026-05-26 10:10:35,053 [Worker-46: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/3.1.5/jersey-media-moxy-3.1.5.jar
+2026-05-26 10:10:35,103 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/3.1.5/jersey-entity-filtering-3.1.5.jar
+2026-05-26 10:10:35,171 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/3.1.5/jersey-entity-filtering-3.1.5.jar
+2026-05-26 10:10:35,204 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/parsson/parsson/1.1.1/parsson-1.1.1.jar
+2026-05-26 10:10:35,205 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar
+2026-05-26 10:10:35,209 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/4.0.2/org.eclipse.persistence.moxy-4.0.2.jar
+2026-05-26 10:10:35,236 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.1.2/jakarta.json-api-2.1.2.jar
+2026-05-26 10:10:35,241 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/4.0.2/org.eclipse.persistence.core-4.0.2.jar
+2026-05-26 10:10:35,254 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar
+2026-05-26 10:10:35,282 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.1.2/jakarta.json-api-2.1.2.jar
+2026-05-26 10:10:35,307 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/9.5.0/org.eclipse.persistence.asm-9.5.0.jar
+2026-05-26 10:10:35,327 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/parsson/parsson/1.1.1/parsson-1.1.1.jar
+2026-05-26 10:10:35,372 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-mail/2.0.2/angus-mail-2.0.2.jar
+2026-05-26 10:10:35,450 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/mail/jakarta.mail-api/2.1.2/jakarta.mail-api-2.1.2.jar
+2026-05-26 10:10:35,467 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/9.5.0/org.eclipse.persistence.asm-9.5.0.jar
+2026-05-26 10:10:35,494 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/4.0.2/org.eclipse.persistence.moxy-4.0.2.jar
+2026-05-26 10:10:35,579 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-mail/2.0.2/angus-mail-2.0.2.jar
+2026-05-26 10:10:35,588 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/mail/jakarta.mail-api/2.1.2/jakarta.mail-api-2.1.2.jar
+2026-05-26 10:10:36,106 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/4.0.2/org.eclipse.persistence.core-4.0.2.jar
+2026-05-26 10:10:40,780 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 10:10:40,798 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 10:10:41,098 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/3.1.5/jersey-media-moxy-3.1.5-sources.jar
+2026-05-26 10:10:41,130 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/3.1.5/jersey-media-moxy-3.1.5-sources.jar
+2026-05-26 10:10:41,161 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.media:jersey-media-moxy:3.1.5
+2026-05-26 10:10:41,414 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/3.1.5/jersey-entity-filtering-3.1.5-sources.jar
+2026-05-26 10:10:41,492 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/3.1.5/jersey-entity-filtering-3.1.5-sources.jar
+2026-05-26 10:10:41,510 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.ext:jersey-entity-filtering:3.1.5
+2026-05-26 10:10:41,696 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.1.2/jakarta.json-api-2.1.2-sources.jar
+2026-05-26 10:10:41,756 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.1.2/jakarta.json-api-2.1.2-sources.jar
+2026-05-26 10:10:41,773 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.json:jakarta.json-api:2.1.2
+2026-05-26 10:10:41,944 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0-sources.jar
+2026-05-26 10:10:41,986 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0-sources.jar
+2026-05-26 10:10:42,005 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.json.bind:jakarta.json.bind-api:3.0.0
+2026-05-26 10:10:42,177 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/parsson/parsson/1.1.1/parsson-1.1.1-sources.jar
+2026-05-26 10:10:42,237 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/parsson/parsson/1.1.1/parsson-1.1.1-sources.jar
+2026-05-26 10:10:42,256 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.parsson:parsson:1.1.1
+2026-05-26 10:10:42,405 [Worker-46: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-26 10:10:42,409 [Worker-46: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-26 10:10:42,431 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.6/asm-9.6-sources.jar
+2026-05-26 10:10:42,552 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.6/asm-9.6-sources.jar
+2026-05-26 10:10:42,572 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ow2.asm:asm:9.6
+2026-05-26 10:10:42,742 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/4.0.2/org.eclipse.persistence.moxy-4.0.2-sources.jar
+2026-05-26 10:10:42,925 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/4.0.2/org.eclipse.persistence.moxy-4.0.2-sources.jar
+2026-05-26 10:10:42,948 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.moxy:4.0.2
+2026-05-26 10:10:43,121 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/4.0.2/org.eclipse.persistence.core-4.0.2-sources.jar
+2026-05-26 10:10:43,874 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/4.0.2/org.eclipse.persistence.core-4.0.2-sources.jar
+2026-05-26 10:10:43,894 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.core:4.0.2
+2026-05-26 10:10:44,044 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/9.5.0/org.eclipse.persistence.asm-9.5.0-sources.jar
+2026-05-26 10:10:44,169 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/9.5.0/org.eclipse.persistence.asm-9.5.0-sources.jar
+2026-05-26 10:10:44,187 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:org.eclipse.persistence.asm:9.5.0
+2026-05-26 10:10:44,344 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-mail/2.0.2/angus-mail-2.0.2-sources.jar
+2026-05-26 10:10:44,498 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/angus-mail/2.0.2/angus-mail-2.0.2-sources.jar
+2026-05-26 10:10:44,518 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.angus:angus-mail:2.0.2
+2026-05-26 10:10:44,672 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/mail/jakarta.mail-api/2.1.2/jakarta.mail-api-2.1.2-sources.jar
+2026-05-26 10:10:44,788 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/mail/jakarta.mail-api/2.1.2/jakarta.mail-api-2.1.2-sources.jar
+2026-05-26 10:10:44,809 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.mail:jakarta.mail-api:2.1.2
+2026-05-26 10:14:05,055 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 10:14:05,069 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 10:14:45,309 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 21.0.10+8-LTS-217
+2026-05-26 10:14:45,776 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@6e36dad{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@514f681e{STARTED}}
+2026-05-26 10:14:45,781 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2026-05-26 10:14:45,971 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3028bdd8{HTTP/1.1, (http/1.1)}{127.0.0.1:55018}
+2026-05-26 10:14:46,144 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@13f5674f{STARTING}[12.0.9,sto=0] @4106625ms
+2026-05-26 10:15:35,932 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 10:15:35,941 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 10:16:10,200 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 10:16:10,207 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 10:25:55,855 [Worker-64: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-26 10:26:00,801 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 10:26:00,814 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 10:26:00,816 [Worker-64: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-26 10:26:00,817 [Worker-64: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-26 11:22:00,946 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-26 11:22:00,985 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-26 11:57:02,098 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@13f5674f{STOPPING}[12.0.9,sto=0]
+2026-05-26 11:57:02,146 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3028bdd8{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2026-05-27 08:22:06,353 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-05-27 08:34:16,315 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 08:34:16,537 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 08:34:58,151 [Worker-33: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </groupI> must match start tag name <groupId> from line 84 (position: TEXT seen ...<groupId>com.mysql</groupI>... @84:34) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </groupI> must match start tag name <groupId> from line 84 (position: TEXT seen ...<groupId>com.mysql</groupI>... @84:34) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2151)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextText(MXParser.java:1335)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1426)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2321)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2026-05-27 08:35:00,327 [Worker-33: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </groupI> must match start tag name <groupId> from line 84 (position: TEXT seen ...<groupId>com.mysql</groupI>... @84:34) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </groupI> must match start tag name <groupId> from line 84 (position: TEXT seen ...<groupId>com.mysql</groupI>... @84:34) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2151)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextText(MXParser.java:1335)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1426)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2321)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2026-05-27 08:35:11,105 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.khushal:demoWebApp:0.0.1-SNAPSHOT @ D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\pom.xml.
+2026-05-27 08:35:16,363 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 08:35:16,375 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 08:35:16,376 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demoWebApp
+2026-05-27 08:35:16,380 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demoWebApp
+2026-05-27 08:50:44,484 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 08:50:44,542 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 08:55:50,729 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 08:55:50,759 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 08:56:19,070 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 08:56:19,079 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 08:58:53,950 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 08:58:54,017 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:03:15,670 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:03:15,731 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:20:57,141 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 21.0.10+8-LTS-217
+2026-05-27 09:20:57,836 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@4a98e1c6{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@213493be{STARTED}}
+2026-05-27 09:20:57,869 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2026-05-27 09:20:58,120 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4b7567af{HTTP/1.1, (http/1.1)}{127.0.0.1:59183}
+2026-05-27 09:20:58,375 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@5d02030b{STARTING}[12.0.9,sto=0] @3600150ms
+2026-05-27 09:23:19,188 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:23:19,209 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:30:01,663 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:30:01,675 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:31:02,920 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:31:02,931 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:32:15,188 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:32:15,202 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:33:27,748 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:33:27,755 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:40:40,875 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:40:40,882 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:41:40,988 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:41:40,996 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:43:45,561 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:43:45,568 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 09:57:29,537 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 09:57:29,592 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:00:28,790 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:00:28,911 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:05:54,249 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:05:54,319 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:08:38,452 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:08:38,503 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:09:11,907 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:09:11,917 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:10:02,084 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:10:02,092 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:16:03,288 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:16:03,311 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:17:12,305 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:17:12,312 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:20:13,997 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:20:14,009 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:22:00,745 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:22:00,764 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:22:06,741 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:22:06,750 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:22:17,636 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:22:17,643 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:23:07,952 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:23:07,961 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:24:07,665 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:24:07,679 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:24:22,946 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:24:22,959 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:27:45,758 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:27:45,800 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:29:01,713 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\main\resources
+2026-05-27 10:29:01,722 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java-Full-stack\Eclipse_workspace-Java\demoWebApp\src\test\resources
+2026-05-27 10:31:51,377 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@5d02030b{STOPPING}[12.0.9,sto=0]
+2026-05-27 10:31:51,422 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4b7567af{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2026-05-27 10:49:32,784 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

@@ -1,0 +1,41 @@
+package com.khushal.demoWebApp;
+
+import java.util.*;
+import java.sql.*;
+
+public class AlienRepository 
+{
+	Connection con = null;
+	
+	public AlienRepository() {
+		String url = "jdbc:mysql://localhost:3306/myRestDB";
+		String username = "root";
+		String password = "KHUpr@1208";
+		con = DriverManager.getConnection(url,username,password);
+		
+	}
+	
+	public List<Alien> getAliens(){
+		return aliens;
+	}
+	
+	public Alien getAlien(int id) {
+		Alien a1 = null;
+		
+		for(Alien a: aliens) {
+			if(a.getId() == id) {
+				a1 = a;
+			}
+		}
+		
+		return a1;
+	}
+
+	public void create(Alien a1) {
+		// a1 is passed as alien so we need to just add in List
+		aliens.add(a1);
+	}
+	
+	
+
+}

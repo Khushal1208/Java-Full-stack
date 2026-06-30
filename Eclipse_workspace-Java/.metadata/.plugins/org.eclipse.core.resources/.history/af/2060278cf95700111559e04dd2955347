@@ -1,0 +1,27 @@
+package com.khushal.demoWebApp;
+
+import java.util.*;
+
+public class AlienRepository 
+{
+	List<Alien> aliens ;
+	
+	public AlienRepository() {
+		aliens = new ArrayList<>();
+		
+		Alien a1 = new Alien();
+		a1.setId(101);
+		a1.setName("Navin");
+		a1.setPoints(60);
+		
+		Alien a2 = new Alien();
+		a1.setId(102);
+		a2.setName("Khushal");
+		a2.setPoints(99);
+		
+		aliens.add(a1);
+		aliens.add(a2);
+		
+	}
+
+}

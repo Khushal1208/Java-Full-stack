@@ -1,0 +1,28 @@
+package com.khushal;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class AlienResource {
+	public List<Alien> getAliens(){
+		List<Alien> aliens = new ArrayList<>();
+		Alien a1 = new Alien();
+		a1.setId(101);
+		a1.setName("Khushal");
+		a1.setPoints(92);
+		
+		aliens.add(a1);
+		
+		Alien a2 = new Alien();
+		a2.setId(102);
+		a2.setName("Yashpal");
+		a2.setPoints(84);
+		
+		aliens.add(a1);
+		
+		return aliens;
+	}
+}

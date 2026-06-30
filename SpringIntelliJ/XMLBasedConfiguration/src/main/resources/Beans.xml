@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <bean id = "orderService" class = "com.khushal.OrderService"/>-->
+<!--    <bean  class = "com.khushal.OrderService"/> // if id not mentioned then beDefault id is ClassName-->
+<!--    <bean id = "orderService2" class = "com.khushal.OrderService" >-->
+<!--&lt;!&ndash;        <constructor-arg ref="paymentServ"/>&ndash;&gt;-->
+<!--        <property name="paymentServiceBean"  ref = "paymentService" /> &lt;!&ndash; name will be for which you are setting value &ndash;&gt;-->
+<!--    </bean>   &lt;!&ndash; best way to createBean &ndash;&gt;-->
+
+<!--    <bean-->
+<!--            id = "paymentService"-->
+<!--            name = "paymentServiceBean,paymentServ, payServBean"-->
+<!--            class = "com.khushal.payment.PaymentService"-->
+<!--    >-->
+<!--        <constructor-arg index="0" value = "UPI" />-->
+<!--        <constructor-arg value = "3"  name = "retryCount"/>-->
+<!--    </bean>-->
+<!--    id is always unique name can have multiple names which is called Alias-->
+
+    <bean id = "upiPaymentService" class="com.khushal.payment.UPIPaymentService"/>
+    <bean id = "cardPaymentService" class="com.khushal.payment.CardPaymentService"/>
+
+    <bean id="orderService" class="com.khushal.OrderService">
+        <constructor-arg ref="cardPaymentService" />
+    </bean>
+<!--    <bean id="userService" class = "com.khushal.UserService" >-->
+<!--        <constructor-arg name = "userNames">-->
+<!--            <list>-->
+<!--                <value>Aditya</value>-->
+<!--                <value>Satya</value>-->
+<!--                <value>Nitya</value>-->
+<!--            </list>-->
+<!--        </constructor-arg>-->
+<!--    </bean>-->
+    <bean
+            id="userService"
+            class = "com.khushal.UserService"
+            init-method="init"
+            destroy-method="cleanup"
+            scope="prototype"
+    >
+    </bean>
+</beans>
