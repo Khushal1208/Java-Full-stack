@@ -1,7 +1,18 @@
+# IntelliJ
 .idea/
 *.iml
-target/
-out/
+
+# Eclipse
 .classpath
 .project
 .settings/
+
+# Build folders
+target/
+out/
+
+# Spring Boot
+application.properties
+
+# Logs
+*.log
