@@ -18,23 +18,27 @@ public class StudentService {
     }
 
     public Student createStudent(Student studentReq) {
+        studentReq.setIsDeleted(false);
         Student studentResp = studentRepository.save(studentReq);
         return studentResp;
     }
 
     public Student getStudent(Long id) {
-        Optional<Student> studentResp = studentRepository.findById(id);
+//        Optional<Student> studentResp = studentRepository.findById(id);
+//        if(studentResp.isPresent() && !studentResp.get().getIsDeleted()) return studentResp.get();
+
+        Optional<Student> studentResp = studentRepository.findByIdAndIsDeletedIsFalse(id);  // Implementation will be provided by Spring JPA Itself
         if(studentResp.isPresent()) return studentResp.get();
         return null;
     }
 
     public List<Student> getAllStudents() {
-        List<Student> studentResp = studentRepository.findAll();
+        List<Student> studentResp = studentRepository.findByIsDeletedIsFalse();
         return studentResp;
     }
 
     public Student updateStudent(Long id , Student studentReq) {
-        Optional<Student> existingStudent = studentRepository.findById(id);
+        Optional<Student> existingStudent = studentRepository.findByIdAndIsDeletedIsFalse(id);
         if(existingStudent.isEmpty()) return null;
 
         Student studentToSave = existingStudent.get();
@@ -43,15 +47,29 @@ public class StudentService {
         studentToSave.setSubject(studentReq.getSubject());
         studentToSave.setEmail(studentReq.getEmail());
         studentToSave.setAge(studentReq.getAge());
+        studentToSave.setIsDeleted(studentReq.getIsDeleted());
 
         return studentRepository.save(studentToSave);
     }
 
     public Boolean deleteStudent(Long id) {
         Boolean isStudent = studentRepository.existsById(id);
+
         if(!isStudent) return false;
 
         studentRepository.deleteById(id);
+        return true;
+    }
+
+    public Boolean deleteStudentSoftly(Long id) {
+        Optional<Student> existingStudent =
+                studentRepository.findByIdAndIsDeletedIsFalse(id);
+
+        if(existingStudent.isEmpty()) return false;
+
+        Student studentToSave = existingStudent.get();
+        studentToSave.setIsDeleted(true);
+        studentRepository.save(studentToSave);
         return true;
     }
 }
