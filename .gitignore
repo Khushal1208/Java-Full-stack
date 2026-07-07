@@ -16,3 +16,9 @@ application.properties
 
 # Logs
 *.log
+
+
+#git status
+#git add .
+#git commit -m "Added Spring practice mini projects"
+#git push origin master
