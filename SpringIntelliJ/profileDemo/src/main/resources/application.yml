@@ -1,0 +1,19 @@
+#spring.application.name=profileDemo
+#server.port = 8080
+#app.welcome.message  = Hello, welcome to my application
+
+
+#If both(yml and properties) the files exist then By Default spring gives priority to application.properties
+# If you delete that file then spring will look for application.yml
+spring:
+  application:
+    name: profileDemo
+
+server:
+  port: 9090
+
+app:
+  welcome:
+    message: Hello, welcome to my application
+    code: 200
+    users : Aditya, Khushal , Mohit , Rohit
